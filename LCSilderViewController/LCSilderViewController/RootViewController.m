@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 	
+    // 注释 
 	UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
 	_centerController = (UITabBarController *)[storyboard instantiateViewControllerWithIdentifier:@"mainTabBar"];
 	_leftController = (UINavigationController *)[storyboard instantiateViewControllerWithIdentifier:@"leftNav"];
