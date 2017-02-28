@@ -1,4 +1,0 @@
-RMCQSliderDemo
-==============
-
-time slider
